@@ -4,7 +4,7 @@
 ```markdown
 # Backend
 
-This is the backend part of the XYZ application, built with [Node.js](https://nodejs.org/) and [Express](https://expressjs.com/).
+This is the backend part of the Product Management application, built with [Node.js](https://nodejs.org/) and [Express](https://expressjs.com/).
 
 ## Getting Started
 
